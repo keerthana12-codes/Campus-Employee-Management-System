@@ -125,39 +125,39 @@ python app.py
 
 ## 📷 Screenshots
 
-### Login Page
+![Login](screenshots/login.png)
 
-*(Add screenshot here)*
+
 
 ---
 
 ### Dashboard
 
-*(Add screenshot here)*
+![Dashboard](screenshots/dashboard.png)
 
 ---
 
 ### Employee Management
 
-*(Add screenshot here)*
+![Employee](screenshots/employee.png)
 
 ---
 
 ### Attendance Management
 
-*(Add screenshot here)*
 
+![Attendance](screenshots/attendance.png)
 ---
 
 ### Salary Management
 
-*(Add screenshot here)*
+![Salary](screenshots/salary.png)
 
 ---
 
 ### Reports Dashboard
 
-*(Add screenshot here)*
+![Reports](screenshots/reports.png)
 
 ---
 
@@ -195,9 +195,9 @@ This project helped me gain practical experience with:
 
 Computer Science & Engineering Student
 
-GitHub: https://github.com/YOUR_GITHUB_USERNAME
+GitHub: https://github.com/keerthana12-codes
 
-LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE/
+LinkedIn: https://www.linkedin.com/in/keerthana-ms-20b37a303
 
 ---
 
