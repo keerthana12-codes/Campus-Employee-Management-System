@@ -125,7 +125,7 @@ python app.py
 
 ## 📷 Screenshots
 
-![Login](screenshots/login.PNG)
+![Login](screenshots/login.png)
 
 
 
@@ -133,31 +133,31 @@ python app.py
 
 ### Dashboard
 
-![Dashboard](screenshots/dashboard.PNG)
+![Dashboard](screenshots/dashboard.png)
 
 ---
 
 ### Employee Management
 
-![Employee](screenshots/employee.PNG)
+![Employee](screenshots/employee.png)
 
 ---
 
 ### Attendance Management
 
 
-![Attendance](screenshots/attendance.PNG)
+![Attendance](screenshots/attendance.png)
 ---
 
 ### Salary Management
 
-![Salary](screenshots/salary.PNG)
+![Salary](screenshots/salary.png)
 
 ---
 
 ### Reports Dashboard
 
-![Reports](screenshots/reports.PNG)
+![Reports](screenshots/reports.png)
 
 ---
 
