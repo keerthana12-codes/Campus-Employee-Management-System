@@ -125,7 +125,8 @@ python app.py
 
 ## 📷 Screenshots
 
-![Login](screenshots/login.png)
+![Login](<img width="1115" height="657" alt="login" src="https://github.com/user-attachments/assets/22fde196-5ac7-4503-94f2-0c577f4b9f24" />
+)
 
 
 
@@ -133,31 +134,29 @@ python app.py
 
 ### Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard] <img width="1907" height="1021" alt="dashboarg" src="https://github.com/user-attachments/assets/d61230d2-6490-4ee7-bf55-43d233901a24" />
 
----
-
-### Employee Management
-
-![Employee](screenshots/employee.png)
 
 ---
 
 ### Attendance Management
 
 
-![Attendance](screenshots/attendance.png)
+![Attendance] <img width="1917" height="1007" alt="attendance" src="https://github.com/user-attachments/assets/15675ad4-3273-4f45-bda7-db20d79e5743" />
+
 ---
 
 ### Salary Management
 
-![Salary](screenshots/salary.png)
+![Salary] <img width="1917" height="1012" alt="salary" src="https://github.com/user-attachments/assets/4677b417-eba2-4bf0-989e-b662f3eeec34" />
+
 
 ---
 
 ### Reports Dashboard
 
-![Reports](screenshots/reports.png)
+![Reports] <img width="1911" height="1017" alt="report" src="https://github.com/user-attachments/assets/012caa4b-1f7b-4d4f-89e9-2713f34fe85a" />
+
 
 ---
 
